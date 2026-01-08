@@ -1,0 +1,11 @@
+city,crime_count,hotspot_level,latitude,longitude,cluster,ai_hotspot_level
+ahmedabad,1817,high,23.0225,72.5714,1,low
+bangalore,3588,high,12.9716,77.5946,2,medium
+chennai,2493,high,13.0827,80.2707,2,medium
+delhi,5400,high,28.6139,77.209,0,high
+hyderabad,2881,high,17.385,78.4867,2,medium
+jaipur,1479,medium,26.9124,75.7873,1,low
+kolkata,2518,high,22.5726,88.3639,2,medium
+lucknow,1456,medium,26.8467,80.9462,1,low
+mumbai,4415,high,19.076,72.8777,1,low
+pune,2212,high,18.5204,73.8567,1,low
