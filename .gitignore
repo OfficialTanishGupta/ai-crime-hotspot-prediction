@@ -1,6 +1,24 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-models/
-.env
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large / optional outputs
+outputs/*.html
